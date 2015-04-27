@@ -1,0 +1,2 @@
+TRIGGER 
+	se perfil for excluido todos os usuarios que possuem este perfil e estao ativo serão bloqueados.

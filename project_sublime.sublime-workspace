@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"recgra",
+				"regra_ano_contratual"
+			],
+			[
+				"proced",
+				"proced_codigo"
+			],
+			[
+				"sele",
+				"select_oracle	select_oracle"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"respons",
+				"responseText"
+			],
+			[
+				"sr",
+				"s_recorde"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"div",
+				"div-erro"
+			],
+			[
+				"segu",
+				"segundos_total"
+			],
+			[
+				"v",
+				"v_tempo"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"codigo",
+				"codigo_pf"
+			],
+			[
+				"id",
+				"id_agenda"
+			],
+			[
+				"data",
+				"data-agenda"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"obs",
+				"obs_salvar"
+			],
+			[
+				"key",
+				"keypress	.keypress()"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"esta",
+				"estado_civil"
+			],
+			[
+				"pe",
+				"pessoas"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"amb",
+				"amb_pre_consulta"
+			],
+			[
+				"tipo",
+				"tipo_atendimento"
+			],
+			[
+				"aten",
+				"atendimento_status"
+			],
+			[
+				"WHER",
+				"whereEmpresa"
+			],
+			[
+				"id_perfil",
+				"id_perfil_usuario"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"perfil",
+				"perfil_usuarios"
+			],
+			[
+				"selec",
+				"selecionar"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"arra",
+				"arrayInsert"
+			],
+			[
+				"a",
+				"acao"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"da",
+				"dadosUsuario"
+			],
+			[
+				"focus",
+				"focusin	.focusin()"
+			],
+			[
+				"bi",
+				"biometria"
+			],
+			[
+				"resposta",
+				"resposta_aberta2"
+			],
+			[
+				"respos",
+				"resposta_aberta2"
+			],
+			[
+				"html",
+				"html_resposta"
+			],
+			[
+				"codi",
+				"codigo_pre_consulta"
+			],
+			[
+				"me",
+				"nome_medico"
+			],
+			[
+				"loca",
+				"local_atendimento"
+			],
+			[
+				"ROW",
+				"rownum"
+			],
+			[
+				"sub",
+				"subtitulo"
+			],
+			[
+				"regra",
+				"regra_ano_contratual"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"tuss",
+				"tuss_especialidade"
+			],
+			[
+				"tus",
+				"tuss_familia"
+			],
+			[
+				"cod",
+				"cod_especialidade"
+			],
+			[
+				"co",
+				"cod_tuss"
+			],
+			[
+				"guia",
+				"guia_exame"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"nc",
+				"nCodPac"
+			],
+			[
+				"dados",
+				"dados_ultimo"
+			],
+			[
+				"text",
+				"text-right"
+			],
+			[
+				"cor",
+				"cor_principal"
+			],
+			[
+				"meta",
+				"meta_descricao"
+			],
+			[
+				"usuario",
+				"usuario_id"
+			],
+			[
+				"lay",
+				"layout_html"
+			],
+			[
+				"conteudo",
+				"conteudo_html"
+			],
+			[
+				"tro",
+				"throw	Throw Exception"
+			],
+			[
+				"prof",
+				"profissao_nome"
+			],
+			[
+				"profi",
+				"profissao_codigo"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"cod_q",
+				"cod_questao_pai"
+			],
+			[
+				"dse",
+				"descricao_resposta"
+			],
+			[
+				"desc",
+				"descricao_resposta"
+			],
+			[
+				"des",
+				"descricao_questao"
+			],
+			[
+				"descri",
+				"descricao_grupo"
+			],
+			[
+				"quest",
+				"questao_tipo"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"grupo",
+				"grupo_ordem"
+			],
+			[
+				"TEMP",
+				"tempo_retorno"
+			],
+			[
+				"TEM",
+				"tempo_consulta"
+			],
+			[
+				"temp",
+				"tempo_retorno"
+			],
+			[
+				"DATA",
+				"DATA_ATENDIMENTO"
+			],
+			[
+				"usua",
+				"usuario_previa"
+			],
+			[
+				"s_",
+				"s_sLoginUsr"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"foto",
+				"fotoPessoa"
+			],
+			[
+				"remov",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"pessoa",
+				"pessoa_codigo"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mous",
+				"mouseout	.mouseout()"
+			],
+			[
+				"mou",
+				"mouseout	.mouseout()"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"nome",
+				"nome_medico"
+			],
+			[
+				"flg",
+				"flg_particular"
+			],
+			[
+				"codig",
+				"codigo_pessoa"
+			],
+			[
+				"con",
+				"contato_recado"
+			],
+			[
+				"fone",
+				"fone_recado"
+			],
+			[
+				"fon",
+				"fone_recado"
+			],
+			[
+				"conta",
+				"contato"
+			],
+			[
+				"tele",
+				"telefone2"
+			],
+			[
+				"ddd_fone",
+				"ddd_fone_recado"
+			],
+			[
+				"ddd",
+				"ddd_fone_proprio"
+			],
+			[
+				"date",
+				"date_diff"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"marca",
+				"marca_utilizada"
+			],
+			[
+				"forne",
+				"fornecedor_utilizado"
+			],
+			[
+				"select",
+				"select_oracle	select_oracle"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"STRTO",
+				"strtoupper"
+			],
+			[
+				"ke",
+				"keypress	.keypress()"
+			],
+			[
+				"modal",
+				"modal_erro"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ready",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width	.width()"
+			],
+			[
+				"especi",
+				"especialidade_rel"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"strrepl",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"CD",
+				"cd_fornecedor"
+			],
+			[
+				"sequencia",
+				"sequencia_proc"
+			],
+			[
+				"seq",
+				"sequencia"
+			],
+			[
+				"glosa",
+				"glosa_codigo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/usuarios/novo_atualizar.php",
+			"settings":
+			{
+				"buffer_size": 5913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 323665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/rodape.php",
+			"settings":
+			{
+				"buffer_size": 3594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/usuarios/control_action.php",
+			"settings":
+			{
+				"buffer_size": 8833,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"g",
+				"GitHub: Edit"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"REINDE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"s",
+				"Set Syntax: PHP"
+			],
+			[
+				"co",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"TAB",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"CONVERT",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"converto",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/sys",
+		"/C/wamp/www/sys/assets"
+	],
+	"file_history":
+	[
+		"/Y/producao/aplicacoes/autorizador/validacao_extra.php",
+		"/Y/sistemaac/app/autorizador/validacao_extra.php",
+		"/Y/sistemaac/app/autorizador/validacao_extra_27042015.php",
+		"/Y/producao/aplicacoes/autorizador/validacao_extra_27042015.php",
+		"/C/Users/nmagalhaes/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/nmagalhaes/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/C/wamp/www/sys/assets/plugins/form-jqueryvalidate/jquery.validate.js",
+		"/C/wamp/www/sys/assets/plugins/form-parsley/parsley.min.js",
+		"/C/wamp/www/sys/assets/plugins/form-parsley/parsley.remote.js",
+		"/Y/sistemaac/app/credenciados/xml/arquivos/20150427/2015042708456_INCLUSAO.RPI",
+		"/Y/sistemaac/app/credenciados/functions/funcoes_gerar_xml.php",
+		"/Y/sistemaac/app/credenciados/xml/arquivos/20150427/2015042708426_INCLUSAO.RPI",
+		"/Y/sistemaac/app/credenciados/gerar_dados_credenciados.php",
+		"/Y/sistemaac/app/seguranca.php",
+		"/Y/sistemaac/app/header.php",
+		"/Y/sistemaac/app/amb_agendamento/index.php",
+		"/Y/sistemaac/app/amb_preconsulta/functions/amb_functions.php",
+		"/Y/sistemaac/app/topo.php",
+		"/Y/sistemaac/app/contadorJorge/resetar.php",
+		"/Y/sistemaac/app/amb_preconsulta/index.php",
+		"/Y/sistemaac/app/amb_questoes/amb_questoes_ajax.php",
+		"/C/wamp/www/sys/app/rodape.php",
+		"/C/wamp/www/sys/app/usuarios/control_action.php",
+		"/Y/sistemaac/app/amb_questoes/index.php",
+		"/Y/sistemaac/app/amb_questoes/salvar_nova_questao_ajax.php",
+		"/Y/sistemaac/app/amb_questoes/js/amb_questoes.js",
+		"/Y/sistemaac/app/contadorJorge/index.php",
+		"/Y/sistemaac/app/contadorJorge/autentica.php",
+		"/Y/sistemaac/contadorJorge.php",
+		"/C/Users/nmagalhaes/Desktop/20150424152503_EXCLUSAO_ODONTO.RPE",
+		"/Y/sistemaac/index - Cópia.php",
+		"/Y/sistemaac/app/autorizador/validacao_extra-01-04-2015.php",
+		"/Y/sistemaac/app/credenciados/mostrar_credenciados_ajax.php",
+		"/Y/sistemaac/lib/ajax/ajax_autocomplete_questoes.php",
+		"/C/Users/nmagalhaes/Downloads/chosen_v1.4.2/index.html",
+		"/C/wamp/www/sys/assets/css/styles.css",
+		"/C/wamp/www/apolus/modelo/assets/demo/demo-formvalidation.js",
+		"/C/wamp/www/apolus/modelo/form-validation.htm",
+		"/C/wamp/www/sys/app/usuarios/novo_atualizar.php",
+		"/C/wamp/www/sys/app/usuarios/index.php",
+		"/Y/sistemaac/app/amb_preconsulta/rel_pre_consulta.php",
+		"/C/wamp/www/sys/assets/plugins/chosen/chosen.css",
+		"/Y/sistemaac/app/amb_agendamento/js/amb_agendamento.js",
+		"/Y/sistemaac/app/amb_agendamento/evento_detalhes_ajax.php",
+		"/Y/sistemaac/app/amb_grupos/index.php",
+		"/Y/sistemaac/app/amb_preconsulta/amb_consulta.php",
+		"/Y/sistemaac/app/amb_atendimento/atualizar_obs_ajax.php",
+		"/Y/sistemaac/app/amb_preconsulta/amb_preconsulta02.php",
+		"/Y/sistemaac/app/amb_atendimento/relatorio_atendimento_ajax.php",
+		"/Y/sistemaac/app/amb_atendimento/relatorio_atendimento_medico_ajax.php",
+		"/Y/sistemaac/app/amb_preconsulta/include_pre_consulta.php",
+		"/Y/sistemaac/app/pend/index.php",
+		"/Y/sistemaac/app/pend/pend02.php",
+		"/C/wamp/www/sys/app/menu_esq.php",
+		"/Y/sistemaac/app/reqproc/reqproc02.php",
+		"/Y/producao/aplicacoes/solcons/solcons02.php",
+		"/Y/producao/aplicacoes/solcons/solcons01.php",
+		"/C/wamp/www/sys/app/header.php",
+		"/C/wamp/www/sys/app/perfil_usuarios/novo_atualizar.php",
+		"/C/wamp/www/sys/app/perfil_usuarios/index.php",
+		"/C/wamp/www/sys/app/topo.php",
+		"/Y/sistemaac/app/pend/pend_hepatite.php",
+		"/Y/sistemaac/app/pend/pend04.php",
+		"/Y/sistemaac/app/pend/pend03.php",
+		"/Y/sistemaac/app/amb_preconsulta/amb_functions.php",
+		"/Y/producao/aplicacoes/autorizador/backup/validacao_extra.12052014.php",
+		"/Y/producao/aplicacoes/autorizador/validacao_extra_30092014.php",
+		"/C/wamp/www/sys/assets/class/mysql.php",
+		"/C/wamp/www/sys/assets/php/myFunctions.php",
+		"/C/wamp/www/sys/app/script.js",
+		"/C/wamp/www/sys/app/perfil_usuarios/control_action.php",
+		"/C/wamp/www/apolus/assets/demo/demo-modals.js",
+		"/C/wamp/www/apolus/modelo/ui-modals.htm",
+		"/C/wamp/www/apolus/modelo/form-layout.htm",
+		"/C/wamp/www/sys/app/trocaEmpresaAjax.php",
+		"/C/wamp/www/sys/app/login/login_action.php",
+		"/C/wamp/www/sys/app/perfil_usuarios/.htaccess",
+		"/Y/sistemaac/app/amb_agendamento/busca_agenda_ajax.php",
+		"/Y/sistemaac/app/amb_preconsulta/retorno.php",
+		"/C/wamp/www/sys/app/painel/painel_action.php",
+		"/C/wamp/www/sys/app/painel/index.php",
+		"/C/wamp/www/sys/app/empresaAtivaAjax.php",
+		"/C/Users/nmagalhaes/Desktop/topo.php",
+		"/C/Users/nmagalhaes/Desktop/home.php",
+		"/C/Users/nmagalhaes/Desktop/internas.php",
+		"/C/Users/nmagalhaes/Desktop/index.php",
+		"/C/Users/nmagalhaes/Desktop/conteudo_cadastrar.31052014.php",
+		"/C/Users/nmagalhaes/Desktop/informacoes_cadastrar.php",
+		"/C/wamp/www/sys/app/login/index.php",
+		"/C/wamp/www/sys/admin.php",
+		"/C/Users/nmagalhaes/Desktop/header.php",
+		"/Y/sistemaac/app/amb_atendimento/index.php",
+		"/Y/sistemaac/lib/db/web1.php",
+		"/Y/sistemaac/lib/js/validar_carteirinha_js_15042015.js",
+		"/Y/sistemaac/app/gerar_excel/excel.php",
+		"/Y/sistemaac/app/autorizador/validar_carteirinha_ajax.php",
+		"/Y/sistemaac/lib/js/validar_carteirinha_js.js",
+		"/Y/sistemaac/app/solcons/index.php",
+		"/Y/sistemaac/app/solcons/js/solcons.js",
+		"/Y/sistemaac/app/gerar_excel/excel_procedimentos.php",
+		"/Y/sistemaac/lib/js/validador_carterinha_back_atual.js",
+		"/Y/sistemaac/lib/js/validar_carteirinha_js_28012015.js",
+		"/Y/sistemaac/app/login/index_autentica.php",
+		"/Y/sistemaac/finger_libs/ojdbc6.jar",
+		"/Y/sistemaac/lib/db/web_prod.php",
+		"/Y/sistemaac/lib/db/webhosp.php",
+		"/Y/sistemaac/lib/db/web4.php",
+		"/Y/sistemaac/lib/finger/MyApplet.html",
+		"/Y/sistemaac/lib/js/validar_carteirinha_js_novo.js",
+		"/Y/sistemaac/app/amb_preconsulta/prontuario02.php",
+		"/Y/sistemaac/app/rodape.php",
+		"/Y/sistemaac/app/amb_agendamento/relatorio_agenda_ajax.php",
+		"/Y/sistemaac/app/reqjust/index.php",
+		"/Y/sistemaac/app/amb_preconsulta/index_13042015.php",
+		"/Y/sistemaac/app/prontuario/index.php",
+		"/Y/sistemaac/app/xml_importacao/detalhes_guias_ajax.php",
+		"/Y/sistemaac/app/xml_importacao/validar_xml.php",
+		"/Y/sistemaac/app/amb_atendimento/js/amb_atendimento.js",
+		"/C/Users/nmagalhaes/Desktop/rodape.php",
+		"/C/wamp/www/public_html/contato.php",
+		"/Y/sistemaac/app/amb_questoes/atualizar_ordem_questao_ajax.php",
+		"/Y/sistemaac/app/aplicusr/js/aplicusr.js",
+		"/Y/producao/aplicacoes/autorizador/iframe_pessoa_novo.php",
+		"/Y/producao/aplicacoes/autorizador/iframe_pessoa_validacao.php",
+		"/C/wamp/www/delicatta/contato.php",
+		"/Y/sistemaac/lib/ajax/ajax_autocomplete_proced.php",
+		"/Y/sistemaac/app/amb_grupos/js/amb_grupos.js",
+		"/Y/sistemaac/app/amb_grupos/amb_grupos_ajax.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"terapias",
+			"206",
+			"149",
+			"block",
+			"<label",
+			"prev",
+			"submitted",
+			"removeError",
+			"errorClass",
+			"parsley-has-error",
+			"has",
+			"err",
+			"has-err",
+			"206",
+			"cod_ver_con",
+			"149",
+			" E ",
+			"&",
+			"web_limites_proced",
+			"regras",
+			"web_che",
+			"149",
+			"9;",
+			"9",
+			"minutes",
+			"hours",
+			"seconds",
+			"min",
+			"id_ferfil_usuario",
+			"#wrap",
+			"pessoa",
+			"id_pessoa",
+			"shadow",
+			"border",
+			"md-1",
+			"2",
+			"perfil",
+			"nome",
+			"id",
+			"nome",
+			"dados",
+			"F_BLOQUEIO_SOLICINTANTE",
+			"F_BLOQUEIO_CREDENCIADO_1",
+			"			}",
+			"REGRAS_PROCED",
+			"perfil",
+			"data_alteracao",
+			"total_usuarios",
+			"descricao",
+			"id_perfil",
+			".",
+			"//$",
+			"descricao",
+			"focusedinput",
+			"bootbox-demo-1",
+			"113",
+			"descricao",
+			"113",
+			"230",
+			"}\n",
+			"login",
+			"id_usuario",
+			"profissional",
+			"resultado_agenda",
+			"get",
+			"usuarios",
+			"item",
+			"u",
+			"r",
+			"c",
+			"descricao",
+			"caminho",
+			"icone",
+			"img",
+			"										}",
+			"?",
+			"col-md-2",
+			"col-md-4",
+			"							$",
+			"label",
+			"echo '<pre>';\n				// print_r($_POST);\n				// echo '</pre>';\n\n				// exit();",
+			"<div class=\"panel panel-default\">",
+			"collapseOne1",
+			"105",
+			"CNES",
+			"3393895",
+			"web_limites_proced",
+			"web",
+			"63",
+			"Produtos",
+			"produtos",
+			"Resultado",
+			"nCodPac",
+			"<cnes>ZZ</cnes>",
+			"5102464",
+			"</codigoMunicipioIBGE>",
+			"<identificacao>",
+			"</cnes>",
+			"<cnpjCpf>",
+			"}\n",
+			"163",
+			"19",
+			"cod_especialidade",
+			"respostas",
+			"ESPECIALIDADES_PROCEDIMENTOS",
+			"GRUPOS",
+			"procedimento",
+			"logo",
+			"if(isset($_POST['nome'])){\n\n	\n		$nome= $_POST['nome'];\n		$email = $_POST['email'];\n		$cidade = $_POST['cidade'];\n		$telefone = $_POST['ddd'].\"-\".$_POST['telefone'];\n		$mensagem = $_POST['mensagem'];\n\n\n		$novonome = \"DE: $nome\\n\";\n		//mail(\"contato@naturallephoton.com.br\",\"Contato Site - Fale Conosco\",$novonome.\"E-mail:$email\\nTelefone:$telefone\\nCidade:$cidade\\n\\n$mensagem\",\"From:$email\");\n\n		echo \"<script>alert(\\\"Mensagem enviada com Sucesso!\\\\n\\\\nEm breve entraremos em contato.\\\")</script>\";\n		}",
+			"throw new Exception($cSQL)",
+			"cpf",
+			"ar.",
+			"ar",
+			"sexo",
+			"3",
+			"];\n",
+			"\"10\"",
+			"estado_civil",
+			"1",
+			"sexo",
+			"F",
+			"M",
+			"codigo_pf",
+			"insert",
+			"procedimento_de",
+			"depende",
+			"terapi",
+			"()+\"\","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/usuarios/novo_atualizar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5609,
+								5609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35120,
+								35131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/rodape.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3267,
+								3267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/usuarios/control_action.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8398,
+								8412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project_sublime.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
