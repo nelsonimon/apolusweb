@@ -52,7 +52,7 @@
 
             $op->fecharCon();
 			    
-                  
+            $pathjs='<script src="perfil_usuarios.js"></script>';      
             include('index.php'); 
         }
 
@@ -71,6 +71,7 @@
         {
             $op_titulo='Novo ';
             $op_action="insert";
+            $pathjs='<script src="perfil_usuarios.js"></script>';     
             include 'novo_atualizar.php';
         }
 
@@ -86,6 +87,8 @@
 
             $op_titulo='Editar ';
             $op_action="update";
+
+            $pathjs='<script src="perfil_usuarios.js"></script>';
             include 'novo_atualizar.php';
         }
 

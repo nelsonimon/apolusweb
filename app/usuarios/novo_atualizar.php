@@ -85,7 +85,7 @@
 
 										<div class="form-group text-center">
 								      			<div class="btn-toolbar">
-								      				<button class="btn-primary btn" onclick="javascript:$('#validate-form').parsley( 'validate' );"><i class="fa fa-check"></i> Salvar</button>
+								      				<button class="btn-primary btn" ><i class="fa fa-check"></i> Salvar</button>
 									      			
 									      			<a href="index" class="btn-default btn"><i class="fa fa-reply"></i> Cancelar</a>
 								      			</div>
@@ -106,117 +106,5 @@
 </div> <!-- page-content -->
 <?php
 	require_once("../rodape.php");
+	echo $pathjs; 
 ?>
-<script>
-	// -------------------------------
-// Initialize Data Tables
-// -------------------------------
-
-$(document).ready(function() {
-
-    //$(".chosen-select").chosen({'width':'100%','white-space':'nowrap'});  
-    var config = {
-      '.chosen-select'           : {},
-      '.chosen-select-deselect'  : {allow_single_deselect:true},
-      '.chosen-select-no-single' : {disable_search_threshold:2},
-      '.chosen-select-no-results': {no_results_text:'Oops, nada encontrado!'},
-      '.chosen-select-width'     : {width:"100%"}
-    }
-    for (var selector in config) {
-      $(selector).chosen(config[selector]);
-    }
-
-	$('.datatables').dataTable({
-		"sDom": "<'row'<'col-xs-6'l><'col-xs-6'f>r>t<'row'<'col-xs-6'i><'col-xs-6'p>>",
-		"sPaginationType": "bootstrap",
-		"oLanguage": {
-			"sLengthMenu": "_MENU_ records per page",
-			"sSearch": ""
-		}
-	});
-	$('.dataTables_filter input').addClass('form-control').attr('placeholder','Search...');
-	$('.dataTables_length select').addClass('form-control');
-
-
-	// $.verify.addRules({
-	//   henzo: function(r) {
-	//   	r.prompt(r.field, "Loading...");
-
-
-	//   	$.ajax({
-	//   		url: 'verificarLogin',
-	//   		type: 'POST',
-	//   		data: {'login': r.val()},
-	//   	})
-	//   	.done(function(data) {
-	  		
-	//   		if(data!='')
-	// 	    {
-	// 	    	 r.callback(data);
-	// 	    }
-	// 	      return true;
-	//   	});
-	 
-	//   }
-	// });
-
-	// $.validator.setDefaults({
-	// 	submitHandler: function() {
-	// 		alert("submitted!");
-	// 	}
-	// });
-	
-	
-
-	$().ready(function() {
-
-		$.validator.addMethod('selectcheck', function (value) {
-	        return (value != '');
-	    });
-
-		// validate the comment form when it is submitted
-		$.validator.setDefaults({
-			submitHandler: function() {
-				alert("submitted!");
-			},
-			ignore: ":hidden:not(select)"
-		});
-
-		// validate signup form on keyup and submit
-		$("#form-validade").validate({
-			errorClass:'has-error',
-            validClass:'has-success',
-            highlight: function (element, errorClass, validClass) { 
-                            $(element).parents("div.form-group").addClass(errorClass).removeClass(validClass); 
-
-         	}, 
-          	unhighlight: function (element, errorClass, validClass) { 
-                  $(element).parents("div.form-group").removeClass(errorClass).addClass(validClass); 
-          	},
-			rules: {
-				login: {
-					required: true,
-					minlength: 4
-				},
-				id_pessoa:{
-					selectcheck: true
-				}
-			},
-			messages: {
-				login: {
-					required: "Informe um nome de login",
-					minlength: "Seu login deve ter mais de 04 caracteres"
-				}
-			}
-		});
-
-	});
-	
-});
-</script>
-
-
-
-<script>
-
-</script>

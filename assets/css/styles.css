@@ -1839,7 +1839,8 @@ select[multiple].input-lg {
 .has-success .radio,
 .has-success .checkbox,
 .has-success .radio-inline,
-.has-success .checkbox-inline {
+.has-success .checkbox-inline,
+.has-success .chosen-container-single a {
   color: #527f26;
 }
 .has-success .form-control {
@@ -1860,12 +1861,16 @@ select[multiple].input-lg {
 .has-success .form-control-feedback {
   color: #527f26;
 }
+.has-success .chosen-container-single a span {
+  color: #444;
+}
 .has-warning .help-block,
 .has-warning .control-label,
 .has-warning .radio,
 .has-warning .checkbox,
 .has-warning .radio-inline,
-.has-warning .checkbox-inline {
+.has-warning .checkbox-inline,
+.has-warning .chosen-container-single a {
   color: #927608;
 }
 .has-warning .form-control {
@@ -1886,12 +1891,16 @@ select[multiple].input-lg {
 .has-warning .form-control-feedback {
   color: #927608;
 }
+.has-warning .chosen-container-single a span {
+  color: #444;
+}
 .has-error .help-block,
 .has-error .control-label,
 .has-error .radio,
 .has-error .checkbox,
 .has-error .radio-inline,
-.has-error .checkbox-inline {
+.has-error .checkbox-inline,
+.has-error .chosen-container-single a {
   color: #a81515;
 }
 .has-error .form-control {
@@ -1912,9 +1921,13 @@ select[multiple].input-lg {
 .has-error .form-control-feedback {
   color: #a81515;
 }
+.has-error .chosen-container-single a span {
+  color: #444;
+}
 .form-control-static {
   margin-bottom: 0;
 }
+
 .help-block {
   display: block;
   margin-top: 5px;

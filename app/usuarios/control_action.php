@@ -119,6 +119,9 @@
 
             $op_titulo='Novo ';
             $op_action="insert";
+
+            $pathjs='<script src="usuario.js"></script>';
+
             include 'novo_atualizar.php';
         }
 

@@ -34,11 +34,11 @@
 								   
 								</div>
 								<div class="col-md-12">
-									<form class="form-horizontal" action="save" method="POST" >
+									<form class="form-horizontal" action="save" method="POST" id="form-validate" >
 										<div class="form-group">
 										    <label for="nome" class="col-sm-2 control-label">Nome:</label>
 										    <div class="col-sm-9">
-										      <input type="text" class="form-control text-upper" id="nome" name="nome" value="<?php echo $nome; ?>" placeholder="Digite o nome do perfil">
+										      <input type="text" class="form-control text-upper" id="nome" name="nome" value="<?php echo $nome; ?>" placeholder="Digite o nome do perfil" >
 										    </div>
 
 										    <input type="hidden" name="acao" value="<?php echo $op_action; ?>" >
@@ -67,22 +67,5 @@
 </div> <!-- page-content -->
 <?php
 	require_once("../rodape.php");
+	echo $pathjs;
 ?>
-<script>
-	// -------------------------------
-// Initialize Data Tables
-// -------------------------------
-
-$(document).ready(function() {
-	$('.datatables').dataTable({
-		"sDom": "<'row'<'col-xs-6'l><'col-xs-6'f>r>t<'row'<'col-xs-6'i><'col-xs-6'p>>",
-		"sPaginationType": "bootstrap",
-		"oLanguage": {
-			"sLengthMenu": "_MENU_ records per page",
-			"sSearch": ""
-		}
-	});
-	$('.dataTables_filter input').addClass('form-control').attr('placeholder','Search...');
-	$('.dataTables_length select').addClass('form-control');
-});
-</script>

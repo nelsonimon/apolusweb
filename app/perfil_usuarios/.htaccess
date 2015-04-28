@@ -8,6 +8,5 @@
 	RewriteCond %{REQUEST_FILENAME} -d
 	RewriteRule ^(.*)$ control_action.php [QSA,NC,L]
 
-	RewriteCond %{REQUEST_FILENAME} -s
-	RewriteRule ^(.*)$ control_action.php [QSA,NC,L]	
+
 </IfModule>
