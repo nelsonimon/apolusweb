@@ -7,6 +7,4 @@
 
 	RewriteCond %{REQUEST_FILENAME} -d
 	RewriteRule ^(.*)$ control_action.php [QSA,NC,L]
-
-
 </IfModule>
