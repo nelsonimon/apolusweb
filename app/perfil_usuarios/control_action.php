@@ -7,22 +7,19 @@
     require_once($pathassets.'class/mysql.php');
 
     require($pathassets.'php/myFunctions.php');//FUNCOES PARTICULARES
-    
-    
+    f_logado();
+    $id_aplicacao=1;
+    f_validaAplicacao($id_aplicacao);
     
     class perfilUsuariosAction extends REST {
 	
         function index(){
-            $id_aplicacao=1;
+            
 
             if($this->get_request_method() != "GET")
             {
                 $this->response('',406);
             }
-			
-			if(!isset($_SESSION["login_usuario"])){
-				header("Location:../login/index");
-			}
 
             $op=new Conexao();
 

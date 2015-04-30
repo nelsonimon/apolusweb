@@ -43,4 +43,33 @@ function f_convertDate($date,$format)
     }
     return $newDate;
 }
+
+
+function f_logado()
+{
+    if(!session_start())
+     session_start();
+
+    if(!isset($_SESSION["login_usuario"])){
+        header("Location:../login/index");
+    }
+}
+
+
+function f_validaAplicacao($id_aplicacao)
+{
+    if(!session_start())
+     session_start();
+
+    $va=new Conexao();
+    $va->selecionar("count(1) permissao","permissoes p","p.id_perfil_usuario='".$_SESSION["id_perfil_usuario"]."' AND  p.id_aplicacao='".$id_aplicacao."' ");
+    $dadosva=mysqli_fetch_array($va->runQuery());
+
+    if($dadosva["permissao"]==0)
+    {
+        header("Location:../erros/index");
+    }
+    $va->fecharCon();
+}
+
 ?>

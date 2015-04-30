@@ -1,0 +1,110 @@
+<?php
+	require_once("../header.php");
+	require_once("../topo.php");
+	
+	//MENUS 
+	require_once("../menu_esq.php"); 
+	require_once("../menu_dir.php"); 
+?>
+
+<div id="page-content">
+	<div id='wrap'>
+		<div id="page-heading">
+			<ol class="breadcrumb">
+				<li class='active'><a href="index.htm"><?php echo $op_titulo; ?> Usuário</a></li>
+			</ol>
+
+			<h1><?php echo $op_titulo; ?> Usuário</h1>
+		</div>
+
+
+		<div class="container">
+			
+
+
+
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="panel panel-info">
+						<div class="panel-body">
+							<div class="row">
+								<div class="col-md-12 clearfix">
+									<h4 class="pull-left" style="margin: 0 0 20px;"><?php echo $op_titulo; ?> Usuário</h4>
+								   
+								</div>
+								<div class="col-md-12">
+									<form id="form-validade" class="form-horizontal" action="" method="POST" >
+										<div class="form-group">
+										    <label for="nome" class="col-sm-2 control-label">Pessoa:</label>
+										    <div class="col-sm-9">
+										    	<select name="id_pessoa" id="id_pessoa" class="chosen-select form-control text-upper">
+										    		<option value="">SELECIONE</option>
+										    		<?php
+										    			//print_r($pessoas);
+										    			foreach ($pessoas as $pessoa) {
+										    				?>
+																<option value="<?php echo $pessoa["id"]; ?>"><?php echo $pessoa["nome"]; ?></option>
+										    				<?php
+										    			}
+										    		?>
+										    	</select>
+										     
+										    </div>
+
+										    <input type="hidden" name="acao" value="<?php echo $op_action; ?>" >
+										    <input type="hidden" name="id" value="<?php echo $id; ?>" >
+										    
+										</div>
+
+										<div class="form-group">
+											<label for="nome" class="col-sm-2 control-label">Perfil:</label>
+										    <div class="col-sm-9">
+											    <select name="id_ferfil_usuario" id="id_ferfil_usuario" class="chosen-select form-control text-upper" >
+											    	<option value>SELECIONE</option>
+										    		<?php
+										    			//print_r($pessoas);
+										    			foreach ($perfil_usuarios as $perfil) {
+										    				?>
+																<option value="<?php echo $perfil["id"]; ?>"><?php echo $perfil["descricao"]; ?></option>
+										    				<?php
+										    			}
+
+										    		?>
+										    	</select>
+											</div>
+										</div>
+
+										<div class="form-group ">
+											<label for="nome" class="col-sm-2 control-label">Login:</label>
+										    <div class="col-sm-6">
+											    <input type="text" class="form-control text-upper" id="login" name="login">
+											</div>
+											
+										</div>
+
+										<div class="form-group text-center">
+								      			<div class="btn-toolbar">
+								      				<button class="btn-primary btn" ><i class="fa fa-check"></i> Salvar</button>
+									      			
+									      			<a href="index" class="btn-default btn"><i class="fa fa-reply"></i> Cancelar</a>
+								      			</div>
+								      	</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			   
+			</div>
+
+			
+		   
+		</div> <!-- container -->
+	</div> <!--wrap -->
+</div> <!-- page-content -->
+<?php
+	require_once("../rodape.php");
+	echo $pathjs; 
+?>
